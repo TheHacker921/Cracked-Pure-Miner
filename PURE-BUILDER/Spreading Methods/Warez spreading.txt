@@ -1,0 +1,57 @@
+Warez spreading
+This is really old but still working method. So why did you pay this
+tutorial? Because I’ll not just tell you some ideas. I’ll show you how to do
+it with actual tools. I’m using this method for my silent miners and so far
+15-20 new downloads every day with autopilot. I’ve spend only $11
+dollar for this setup and every day 15-20 new install is good numbers for
+me. Lets begin the tutorial. First of all we will basically open a warez
+download blog. At least people will think that way. You need to buy your
+hosting and domain anonymously because of you will share some illegal
+things on this site and we don’t want to leave any trace behind us.
+For anonymous purchase and good service I choosed Namecheap for this
+method. I paid $11 for SSL + Hosting + Whois Protection + .store domain This
+will be total amount of our investment. Don’t forget to pay with bitcoin. We are
+choosing Namecheap because they let us paying with bitcoins. And complete
+the forms with fake information ofcourse. After we setup our site we won’t
+even login again so do everything carefully :) Ok we bought our hosting and
+domain and we are ready to go. Login your cpanel and setup your wordpress
+automatically. Find a good, seo friendly and lightweight theme for your wp and
+install it. Go to Plugins and click the add new. Search for wp-o-matic This tool
+is a lifesaver. Install and activate it. Wp-o-matic is a content robot. It’s fetching
+contents from the rss feeds periodically. Yes this content is not original, yes it is
+bad for seo but we are not aiming high ranks on the google either. C/P content
+will do don’t worry. Go to Wp-o-matic and click add new campaign.
+This section is customizable but you should follow and copy my settings. Add
+New Campaign You can give a name for your campaign like KeyGens. We can
+collect all keygen rss’s under this campaign. Widget After Content I’ll get this
+later. No need to touch it. Campaign Description You can leave blank this
+section. Feeds For This Campaign This is an important part. You should go to
+google and find some quality warez blogs. I checked google and find one and it
+has rss feeds too :) https://insiderex.com/feed/ Click the add feed button and
+paste your feed url. Then click the Check all feeds button. If this feed is suitable
+it turns green. If it is not suitable it will shown red. Delete the red ones and add
+the new rss’es. 4 5 quality rss feed will do. It means at least 4 5 new post to
+your site.
+Publish You don’t need to change anything in here. And we are not ready to
+publish either. Wait for other settings. Campaign Post Formats This section is
+irrelevant too. No need to change anything here.
+Options for this campaign If you are not know what are you doing just copy my
+settings in here. We are getting contents and removing original download links
+from it here. We will add our download links later. Schedule Cron You will
+schedule your campaign so everyday at 3 o’clock your bot will add new
+contents. Campaign Categories You can check add auto categories and you
+don’t need to do it manually later. Don’t change anything more at your page.
+Click publish and wait. When the Run Now button available click it. And wait
+your bot is fetching new contents. Now you have a warez blog which is creating
+automatic content everyday. Congratz. You can add your advertisement codes
+and start earning little from it. But stop we are not after advertisement earnings.
+Lets move on. Now go to plugin page again and click add new. Search for
+Widget After Content. Install it then activate it. This plugin creates custom
+contents automatically after every one of your posts. We will add our download
+links with this plugin
+Did you see, there is a after content block. Drop down there a text widget and
+open it
+Add your download links and click save. You will put your own stubs
+download links don’t forget. And you can rename your mallware like Ultimate
+Downloader, Sourceforge Downloader and you are ready to go. You have an
+auto-pilot slave factory congratz. This is my one week download numbers. Isn’t

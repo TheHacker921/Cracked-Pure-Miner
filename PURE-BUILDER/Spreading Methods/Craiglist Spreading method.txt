@@ -1,0 +1,19 @@
+Craiglist Spreading method
+Go to Craigslist.com Register An Account There. So here we will be using
+People stupidity. So go to craigslist and post an ad on antiques and furniture
+section is craigslist you will see like this.
+Now put on you add this to your ad.
+“I have this special furniture/antique for sale I can put the image up because it’s
+an very big image for those who are interested Pm me I will give you an image
+download link and you can see The image and respond to me later Here is my
+email link – putyouremailhere@yahoo.com”
+Now after you have successfully done this. You will receive several email from
+various people asking you to show the product picture. At the time we have to
+already make an image with server binded to it and it should be crypted. For
+image binding of server use Celesty Binder and also spoof extension to
+jpg(search in google for these) Now we have to put auto verification reply on
+our yahoo email. Open your Yahoo email and do the following Go to settings
+(it look like this for those who don’t know)
+Arrange it with your download virus link {BIN} and then add your messages
+towards the craiglist customers as they send you emails and it'll be auto
+verification response. This is one of the ways you can spread 

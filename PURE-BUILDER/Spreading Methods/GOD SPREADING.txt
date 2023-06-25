@@ -1,0 +1,37 @@
+This Is One Of The Best Methods to Spread Ur RAT
+first of all
+go to google Cloud Shell.
+Then Download SharpShooter From Github
+Turn Your Payload into a .slk File
+It Can Bypass gmail so it should be easy
+after bulding it use a mass email sender
+it could be anything just select one
+For This you are going to Need An Email List
+
+Here are some Tutorials On How To Get Those:
+1.Go To Facebook and look for posts with "Drop Email Below"
+2.Make a Fake Giveaway, and Make A Google Forums ask People For Their Email
+3.https://youtu.be/G6tcXKscwsI
+4.https://crax.tube/watch/mail-extractor-get-spamming-leads_sss5IPCbH8wB7Pd.html
+5.https://crax.tube/watch/how-to-get-hq-email-leads-for-spamming-without-sqli_ax4sQFoBBHuqwB1.html
+6.Or Just Get Your Own thru sqli
+
+Alright,
+Now Just Send People An Email Pretending That your gonna sue Them
+And Just Send Them The File.
+Here is an Example
+
+Subject: Request for Copy of Right to Sue
+
+Dear _____(Sir or Madam),
+
+I hereby request you to kindly issue me a copy of the right to sue letter. I have registered an official complaint with the ___________ (name of the authority) and I was issued with a complaint number of ________ (complaint number).
+
+I wish to bring this matter of grave injustice meted out to me by my employers to the court of law. I believe that my rights have been curtailed and that this injustice cannot be allowed to prevail in our society. Therefore, upon receipt of the right to sue letter, I will file a case with the assistance of my attorney at the Employment Tribunal.
+
+I request you to kindly review The Evidence i Send You Urgenty.
+
+Thank you,
+
+You Get The Pont.
+Good Luck : )

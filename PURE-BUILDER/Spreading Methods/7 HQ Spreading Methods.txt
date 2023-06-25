@@ -1,0 +1,143 @@
+
+When it comes too spreading your bot's and your rats, it can be
+quite easy or challenging for the average retard. What people
+do no understand is that spreading is very easy depending on the way
+that you do it. Below, is a FEW methods on how to spread.
+
+
+----/---
+Methods
+----/---
+
+Torrents: A very common way too spread files over the net
+--
+P2P: A few very good example is Limewire
+--
+IM: If you do this mixed with a bit of SE you have a good chance of infecting the victim
+--
+Warez: If you have a nice account which is trusted, start spreading your RAT
+--
+Personal Site: Upload a few files which are in your sites category binded with your rat
+--
+VIP: If you have VIP on a site, either make a fake tool and bind with your RAT, or leech
+off another VIP site and share with your binded RAT
+--
+Hacking Sites: Lets say you want too get.. Runescape accounts. Find a autobot or somin
+And bind your RAT and share on a Runescape hacking site. This way
+You have more of a chance of getting runescape accounts.
+
+
+----/---
+How-To V1
+----/---
+
+In this first How-To, I will show you how too spread via Warez (Very Easy And Basic).
+
+But before we do that you will need to do the following:
+
+Have a Rat
+A Cryptor < Buy or Make One >
+A Binder < Buy or Make One
+A File too Share < Find off a trusted warez site
+Now, your wondering what a Binder & Cryptor is. Well here is a quick personal definition of both.
+
+Cryptor: You could say it Encrypts your RAT so that an AV can not find it, or say it Scrambles the code
+So it seems like a unknown file too the AV.
+Binder: You use these too bind 2 or more files together so that when the main .exe file is opened
+All the files which you binded open at once eg. You bind: file.exe > rat.exe and when you open
+file.exe all the files open at once.
+
+* I reccommend that you either crypt the RAT first and then Bind and crypt again, or Bind and then Crypt.
+
+
+Ok now lets move on. Crypt your rat and bind with the Warez application. Now, find a board which deals with
+illegal sharing of warez, here is a list I put together:
+
+http://www.warez-bb.org/ < Overused But People Are Retards >
+http://www.wareznet.net/ < Apparently Good Too Spread >
+http://www.sharestation.com/ < Build Trust, Get Good Post Count Then Spread >
+http://www.katzforums.com/ < Alot of Bots Are On Here >
+
+
+Ok, now that you found your warez forum you want too use signup and make a good post count, it is
+not easy as a-b-c. I would reccommend that you get a post count of about 50+ and also get a nice
+looking avater and signiture, it normally makes people want too trust you. Now that you have a good looking
+post count you probbly want too post your binded warez in the appropriate section, but recently I have found
+a good way of spreading which is by posting in the guest section, and hoping that it gets put onto a site
+like:
+
+katz.cd
+phazeddl.com
+
+Because 100's and 1000's of people vist these kinds of sites hourly, you got a good chance of potentional
+victims visiting and downloading your binder warez and getting infected, but you have too make sure
+that your RAT is crypted or you just fugged your chances up of even getting one victim. But here is another little
+trick which has worked in the past for me.
+
+Find a commonly used AV like.. Kaspersky, now find your crypted RAT with it. Now your thinking why a AV? Well this
+is because sometimes your victims might have done a reinstall on XP and wanted a new AV, so post it on a few warez sites
+and make a fake account with a nice looking post count and start too post how it works etc, also get a few friends
+together and get them too get a high post count and get them too post how it works!
+* You might want too do that on all your posts with you RAT binded
+
+Now thats it for how to spread on a warez sites. Read below for how to spread on IM (Instant Messaging)
+
+
+
+----/---
+How-To V2
+----/---
+
+Ok, now when spreading by MSN,ICQ,YAHOO you need too have trust with who ever your spreading with or some very
+good SE (Social Engineering). Now why SE? This helps when trying too trick your friend/victim into accepting
+what you are saying and downloading your file from you. So here is a good little trick which has worked about 80%
+of the time for me and I will share it. Also, you will need to know there personal interests which could include:
+Gaming,Hacking,Programming. Your probbly starting too understand what I mean, so if you don't know find out, and
+don't ask 'What are your interests?' say somin like ' What kinda stuff you into? i persoanlly like playing
+world of warcraft' . So if they say somin like 'Yeh me too' you instantly found somthing they are interested in.
+
+What You Need:
+
+A Friend/Victim on MSN/ICQ/YAHOO etc.
+There interests
+A fake website which is hosting your RAT
+Your Rat Cryped or Crypted & Binded with a tool they need
+
+Ok first we need to make a fake website, this may be alot of effort for conning one person, so I reccommend
+that you have a group of victims which are into the same thing, which in ourcase will be WoW (World Of Warcraft).
+
+Find a template for what they like 'World of Warcraft'.. (Google Is Your Fried)
+
+Now, make up some bullshit about what they like on the website. So for World of Warcraft say somthing like you have found
+a talent point calculater or you found a tool which Farms Gold for you, make sure it sounds genuine and for more
+proof have a couple of screenshots which you can find anywhere in google etc. Now upload your .exe too the actual
+site and have it as a 10min Free Trial or somthing like that so it sounds so much more genuine.
+
+Now for the part in which you tell them about it and how it works etc.
+
+M = Me
+V = Vicim
+
+----
+M> Hey i just found this sweet bot which farms gold for you
+M> I just used it and it farmed some cool epics which i sold for loads
+V> Nice. where did you get i from, it sounds soo cool !
+V> Also cant you get banned from doing stuff like this, and is it a virus
+M> No, I scanned already <Fake uploaded app link>
+M> but if you get banned they have a unbanning tool on the site
+M> Which removes the ban and allows you too play
+M> Also i just farmed another sweet epic
+V> What the site?
+M> http://site.com/download
+M> i am using the 10minute free trial! and it works like a charm
+M> Planning on buying
+V> Ok sweet, I downloaded it and i ran it and it opened some called Glider Bot
+----
+
+Ok, now thats now the best fake convo, but you probbly have goto grips of what I am trying to do here.
+You can see that even though the guy said is it a virus, I give a fake link of a tool which i could call
+trial which could be uploaded too virus total, and he even said that if you get banned there is a tool
+to unban you. So you kidna understand how too get outa a hard situation
+
+Now after all this has happened either block the Victim, and move on. But you want too make sure your other
+victims don't know each other because that could cause a problem for you.
